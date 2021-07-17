@@ -254,9 +254,11 @@ PRODUCT_PACKAGES += \
     libOmxAmrEnc \
     libOmxCore \
     libOmxEvrcEnc \
+    libOmxG711Enc \
     libOmxQcelp13Enc \
     libOmxVdec \
     libOmxVenc \
+    libOmxVidcCommon \
     libstagefrighthw \
     libstagefright_foundation-v33 \
     libavservices_minijail_vendor \
