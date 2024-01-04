@@ -93,6 +93,13 @@ vendor/lib64/soundfx/libswgamedap.so|0491096a45e14d8097ceb80c15c0f946bbade389
 vendor/lib64/vendor.dolby.hardware.dms@2.0-impl.so|da03a56f6fbeb2bbe23ebb3a48b30fc3e5e76da3
 vendor/lib64/vendor.dolby.hardware.dms@2.0.so|45ab26d743b6a56b505447012347493ff41057fc
 
+# Audio FX - OzoAudio
+-system_ext/lib/soundfx/libozoprocessing.so:vendor/lib/soundfx/libozoprocessing.so
+-system_ext/lib/libav_ozodecoder.so:vendor/lib/libav_ozodecoder.so
+-system_ext/lib/libav_ozoencoder.so:vendor/lib/libav_ozoencoder.so
+-system_ext/lib/libozoaudio.so:vendor/lib/libozoaudio.so
+-system_ext/lib/libozowidening.so:vendor/lib/libozowidening.so
+
 # Audio FX modules
 system_ext/etc/permissions/audiosphere.xml
 system_ext/framework/audiosphere.jar
