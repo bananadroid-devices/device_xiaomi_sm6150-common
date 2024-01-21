@@ -1,0 +1,2 @@
+# Allow externalstorage access
+allow system_app mnt_pass_through_file:dir { create_dir_perms mounton };
